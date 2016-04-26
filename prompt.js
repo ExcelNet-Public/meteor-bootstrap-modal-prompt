@@ -180,7 +180,7 @@ BootstrapModalPrompt = function() {
   exports.hide = function() {
     var modal = $('.bs-modal-prompt .modal');
     modal.modal('hide');
-    $('.bs-modal-prompt').remove();
+    //$('.bs-modal-prompt').remove();
   }
 
   return exports;
