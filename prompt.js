@@ -158,7 +158,7 @@ BootstrapModalPrompt = function() {
 
     // if btnOkText is falsey, remove it
     if (!options.btnOkText) {
-      modal.find('.modal-btn-save').remove();
+      modal.find('.modal-btn-confirm').remove();
     }
     else {
       modal.find('.modal-btn-confirm').off().click(function() {
