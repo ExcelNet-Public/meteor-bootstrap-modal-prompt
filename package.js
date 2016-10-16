@@ -1,7 +1,7 @@
 Package.describe({
   name: 'dasdeck:bootstrap-modal-prompt',
   summary: "Show prompts in a bootstrap modal.",
-  version: "0.1.0",
+  version: "0.1.1",
   git: "https://github.com/theduke/meteor-bootstrap-modal-prompt"
 });
 
