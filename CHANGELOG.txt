@@ -8,3 +8,5 @@
   - Added ability to close modal programatically (BootstrapModalPrompt.hide())
   - Wrapped API in closure
   - Added ability to hide cancel and confirm buttons by setting text to null
+* Version 0.1.1 16.10.2016
+  - Fix code to hide confirm button
